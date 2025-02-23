@@ -28,7 +28,7 @@ Prerequisites
 	•	Java 8 or higher
 	•	IDE (e.g., IntelliJ IDEA, Eclipse) or CLI tools for compilation
 
-🛠️ Setup & Execution
+Setup & Execution
 
 # Compile the source code
 javac QTreeNode.java QuadrantTree.java
@@ -36,7 +36,7 @@ javac QTreeNode.java QuadrantTree.java
 # Run the program (with your main driver file)
 java Main
 
-💻 Sample Code Usage
+Sample Code Usage
 
 int[][] pixelData = {
     {255, 255, 0, 0},
