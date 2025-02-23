@@ -22,9 +22,9 @@ Provides the quadtree construction logic with capabilities to:
 	•	Traverse and retrieve nodes at various hierarchical levels
 	•	Optimize spatial searches through depth-first and breadth-first traversal methods
 
-🚀 Getting Started
+Getting Started
 
-✅ Prerequisites
+Prerequisites
 	•	Java 8 or higher
 	•	IDE (e.g., IntelliJ IDEA, Eclipse) or CLI tools for compilation
 
