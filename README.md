@@ -6,12 +6,15 @@ This repository contains a Java implementation of a Quadtree data structure, com
 
 Files
 	- QTreeNode.java:
-Defines the QTreeNode class, representing individual nodes in the quadtree. Each node contains:
+
+Defines the QTreeNode class, representing individual nodes in the quadtree. 
+Each node contains:
 	- Coordinates (x, y)
 	- Size of the node’s area
 	- Color value (useful in image compression)
 	- References to child nodes (quadrants) and the parent node
-	- QuadrantTree.java:
+	- QuadrantTree.java
+ 
 Manages the construction and traversal of the quadtree using pixel data:
 	- Builds the tree from a 2D pixel array.
 	- Provides methods to retrieve nodes at specific levels.
